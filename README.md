@@ -1,13 +1,31 @@
 # About Me
 
-Hello! I am a gamer named Digital Cheese who likes to code a bit. I might make Javascript stuff eventually. I will list my websites below so you can contact me or watch my videos.
+I'm one of those based coders on GitHub. Owner of the TDK empire and ATTO website. If you need something you will have to contact me somewhere like Discord or Twitter.
 
-[YouTube: Digital Cheese](https://youtube.com/DigitalCheese)
+# Socials
 
-Discord: Dc#9535
+[My Website](https://dc-blog.neocities.org)
 
-[Twitter: @DigitalCheeseYT](https://twitter.com/DigitalCheeseYT)
+[YouTube](https://youtube.com/DigitalCheese)
 
-[Reddit: u/Digital_CheeseYT](https://reddit.com/u/Digital_CheeseYT)
+[Twitch](https://twitch.tv/digital_cheese)
 
-[Website](https://dc-blog.neocities.org)
+[Twitter](https://twitter.com/DigitalCheeseYT)
+
+[Reddit](https://reddit.com/u/Digital_CheeseYT)
+
+[Discord Server](https://discord.gg/nbWFc28CC6)
+
+[3DSPaint](https://3dspaint.com/member/?id=150961)
+
+[GBAtemp](https://gbatemp.net/members/561266/)
+
+# What will I help with?
+
+I will help with HTML/CSS of your website. I'm not perfect but I think I could do a decent job for you.
+
+# Other
+
+Thanks for reading :D
+
+I should be uploading code pretty often here. The TDK discord will have GitHub updates here.
