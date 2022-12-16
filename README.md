@@ -1,6 +1,8 @@
 # About Me
 
-I'm one of those based coders on GitHub. Owner of the TDK empire and ATTO website. If you need something you will have to contact me somewhere like Discord or Twitter.
+```
+Hello! I am a random programmer on the internet. I usually do some cool stuff here that you can check out. I usually work on DC-Blog but I sometimes work on other repositories.
+```
 
 # Socials
 
@@ -20,12 +22,8 @@ I'm one of those based coders on GitHub. Owner of the TDK empire and ATTO websit
 
 [GBAtemp](https://gbatemp.net/members/561266/)
 
-# What will I help with?
+# Languages I Know Decently Well Currently
 
-I will help with HTML/CSS of your website. I'm not perfect but I think I could do a decent job for you.
-
-# Other
-
-Thanks for reading :D
-
-I should be uploading code pretty often here. The TDK discord will have GitHub updates here.
+```
+HTML/CSS
+```
