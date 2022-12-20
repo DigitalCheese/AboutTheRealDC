@@ -24,8 +24,5 @@ You don't need to put it on every page that has my content in cases where its a 
 
 # Languages I Know Decently Well Currently
 
-```
 ![HTML5](https://user-images.githubusercontent.com/97138334/208735972-e58c2d7a-942f-4eac-aa53-66d248789c5f.png)
-
 ![CSS3](https://user-images.githubusercontent.com/97138334/208736007-c0e7d82b-d6ed-4094-beb4-5d351af0a346.png)
-```
