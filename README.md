@@ -16,7 +16,7 @@ You don't need to put it on every page that has my content in cases where its a 
 
 [Reddit](https://reddit.com/u/Digital_CheeseYT)
 
-[Discord Server](https://discord.gg/nbWFc28CC6)
+[Guilded Server](https://guilded.gg/TDK)
 
 [3DSPaint](https://3dspaint.com/member/?id=150961)
 
