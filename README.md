@@ -8,19 +8,19 @@ You don't need to put it on every page that has my content in cases where its a 
 
 [My Website](https://dc-blog.neocities.org)
 
-[YouTube](https://youtube.com/DigitalCheese)
+[YouTube Channel](https://youtube.com/DigitalCheese)
 
-[Twitch](https://twitch.tv/digital_cheese)
+[Twitch Channel](https://twitch.tv/digital_cheese)
 
-[Twitter](https://twitter.com/DigitalCheeseYT)
+[Twitter Account](https://twitter.com/DigitalCheeseYT)
 
-[Reddit](https://reddit.com/u/Digital_CheeseYT)
+[Reddit Account](https://reddit.com/u/Digital_CheeseYT)
 
 [Guilded Server](https://guilded.gg/TDK)
 
-[3DSPaint](https://3dspaint.com/member/?id=150961)
+[3DSPaint Account](https://3dspaint.com/member/?id=150961)
 
-[GBAtemp](https://gbatemp.net/members/561266/)
+[GBAtemp Account](https://gbatemp.net/members/561266/)
 
 ## Languages I've Learned
 
