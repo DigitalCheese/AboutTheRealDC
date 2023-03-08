@@ -1,8 +1,6 @@
 ## About Me
 
-```
-Real based Delta DC. If you want to use my code for some reason, I don't care assuming you give credit to me.
-```
+Yes it is me, real Digital Cheese/DCTheGamr from YouTube and 3DSPaint. I often do cool web-development related stuff here. I am trying to learn JS right now, shouldn't take too long to figure out. If you need anything, DM me on 3DSPaint or Twitter.
 
 ## Socials
 
