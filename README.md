@@ -1,6 +1,8 @@
 ## About Me
 
+```
 Real based Delta DC. If you want to use my code for some reason, I don't care assuming you give credit to me.
+```
 
 ## Socials
 
