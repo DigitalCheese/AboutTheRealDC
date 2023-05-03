@@ -1,3 +1,11 @@
+/* ==UserStyle==
+@name		3DSPaint Darkmode Fix
+@namespace	3dspaint.com
+@version	1.0
+@description	Fixing 3DSPaint's darkmode where its broken!
+@author		Digital Cheese
+==/UserStyle== */
+
 @-moz-document domain("3dspaint.com") {
 html {color:white!important}
 div#search_container {background:transparent}
