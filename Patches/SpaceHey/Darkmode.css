@@ -1,3 +1,12 @@
+/* ==UserStyle==
+@name         DarkMode SpaceHey
+@version      20230503.03.29
+@namespace    userstyles.world/user/DigitalCheese
+@description  SpaceHey gets darkmode, if you thought Paint's was annoying then imagine having no darkmode.
+@author       DigitalCheese
+@license      No License
+==/UserStyle== */
+
 @-moz-document domain("spacehey.com") {
 body {background-color:#000;}
 main {background:#111;color:white;}
@@ -49,7 +58,7 @@ a.option:hover {background:#222}
 .tabpanel .content {background:black;color:white}
 button.conversation-filter-all, button.conversation-filter-favs {background:#111!important}
 
-.messages, .nochat-info, .message-container-inner .message {background:#111!important;color:white;border:1px black solid;}
+.messages, .nochat-info, .message-container-inner .message, .newchat-info {background:#111!important;color:white;border:1px black solid;}
 .message-container:not(.self) .message:not(.slim)::before {display:none}
 .message-container.self .message:not(.slim)::after {display:none}
 .chat-header {background:#222!important;border:1px black solid;color:white;}
