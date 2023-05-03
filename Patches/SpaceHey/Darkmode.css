@@ -52,13 +52,13 @@ button {background:black;color:white;border:1px #007 solid;padding-bottom:2px}
 .info-box h3 {color:gold;}
 /* IM CSS */
 p.own-name-text {color:white}
-a.option {background:#111;color:white!important;font-weight:bold;}
+a.option {background:#111;color:white!important;font-weight:bold;}te
 a.option:hover {background:#222}
 
 .tabpanel .content {background:black;color:white}
 button.conversation-filter-all, button.conversation-filter-favs {background:#111!important}
 
-.messages, .nochat-info, .message-container-inner .message, .newchat-info {background:#111!important;color:white;border:1px black solid;}
+.messages, .nochat-info, .message-container-inner .message, .newchat-info {background:#111!important;color:white;border:1px white solid;}
 .message-container:not(.self) .message:not(.slim)::before {display:none}
 .message-container.self .message:not(.slim)::after {display:none}
 .chat-header {background:#222!important;border:1px black solid;color:white;}
