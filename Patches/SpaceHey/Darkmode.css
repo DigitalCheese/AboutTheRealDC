@@ -1,0 +1,66 @@
+@-moz-document domain("spacehey.com") {
+body {background-color:#000;}
+main {background:#111;color:white;}
+footer {background:#111;color:white;}
+
+nav .top {background:#003;}
+ul.links {background:#005;font-size:10px;}
+footer ul.links {background:transparent}
+input {background:#000;color:white;border:1px #009 solid}
+
+.music .heading, .specials .heading, .bulletin-preview .heading, .blog-sub-preview .heading {background:#002}
+.indie-box {border:8px solid #002}
+.new-people .top {background:#8B4000;border:1px solid #8B4000}
+.new-people {border:1px solid #8B4000}
+.heading {background:#004!important}
+
+.profile .contact, .profile .url-info, .profile .table-section, .home-actions {background:#001;border:2px solid #004}
+
+.details-table td, .details-table td:first-child {background:#004;color:white;}
+
+.edit-info {background:#001}
+.entry, p.info {background:#004!important;border:1px white solid;color:white;}
+.comments-table td {background:black;color:white;}
+.comments-table td:first-child {background:rgb(32, 31, 17)}
+
+.topic-box {background:#001;color:white;border:1px white solid;}
+.reply-box {background:#6E260E;color:white;border:1px white solid;}
+
+ul.group-actions li {background:#002;color:white}
+ul.group-actions {border:2px transparent solid;}
+span.pinned {color:white!important;}
+textarea {background:black!important;color:white;}
+
+a {color:cyan}
+a:hover {color:white;}
+a.more {color:white;font-weight:bold;font-size:12px}
+p.success {background:#020;color:white;font-weight:bold}
+p.error {background:#200;color:white}
+button {background:black;color:white;border:1px #007 solid;padding-bottom:2px}
+
+.box label {color:white;}
+.col.info-box {background:#002;color:white;}
+.info-box h3 {color:gold;}
+/* IM CSS */
+p.own-name-text {color:white}
+a.option {background:#111;color:white!important;font-weight:bold;}
+a.option:hover {background:#222}
+
+.tabpanel .content {background:black;color:white}
+button.conversation-filter-all, button.conversation-filter-favs {background:#111!important}
+
+.messages, .nochat-info, .message-container-inner .message {background:#111!important;color:white;border:1px black solid;}
+.message-container:not(.self) .message:not(.slim)::before {display:none}
+.message-container.self .message:not(.slim)::after {display:none}
+.chat-header {background:#222!important;border:1px black solid;color:white;}
+.connection-status {background:#444;color:white}
+.new-message {background:#111}
+.message-composer {background:black;color:white;box-shadow:transparent 0px 2px 5px -1px, transparent 0px 1px 2px -1px;}
+.status {background:#111;color:white;}
+/* SHOP CSS */
+body.body {background:black!important;}
+.main__sections, .page__footer, .footer__top, div.page, div.container.wrapper {background:#222!important;color:white!important;font-weight:bold;}
+
+h2.rich-text__heading, h3.tile__heading, .tile__price {color:white;}
+div.grid.grid--waffle:after {filter:invert(100)}
+}
