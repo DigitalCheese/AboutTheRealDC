@@ -5,29 +5,6 @@
 @description	Fixing 3DSPaint's darkmode where its broken! v1.1 has basically become more like a re-write of the entire code and stuff to work more properly on other pages.
 @author		Digital Cheese
 ==/UserStyle== */
-@-moz-document url-prefix("https://3dspaint.com/photo_gallery/member_photo.php") {
-    table {
-        background:#222;
-        border:1px transparent solid;
-    }
-    tr, td {
-        background:#222!important;
-        font-size:12px;
-    }
-    
-    .list {
-        background:#222;
-        border:1px transparent solid;
-    }
-    div {
-        max-width:800px;
-        margin:auto;
-    }
-    
-    a {
-        font-size:12px!important;
-    }
-}
 @-moz-document url-prefix("https://3dspaint.com/photo_gallery/member_gallery.php") {
     tr {
         background:#222!important;
@@ -217,7 +194,7 @@
     }
     
     div.chatPane:nth-child(2) {
-        height:500px!important;
+        height:200px!important;
     }
     
     #divChatText {
@@ -235,7 +212,7 @@
     input#txtPost {
         background:#000!important;
         width:99%!important;
-        height:50px!important;
+        height:25px!important;
     }
     input.form_button {
         width:99%!important;
@@ -357,5 +334,13 @@
     }
     h1 {
         color:white!important;
+    }
+}
+@-moz-document url-prefix("https://3dspaint.com/terms.php"), url-prefix("https://dsipaint.com/terms.php") {
+    div {
+        background:#222!important;
+        color:white;
+        max-width:800px;
+        margin:auto!important
     }
 }
