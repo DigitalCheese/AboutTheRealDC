@@ -4,7 +4,15 @@ The real Digital Cheese aka Giga Balls from Twitter/3DSPaint. I am the most base
 
 ## MAIN SOCIALS
 
-![https://dc-blog.neocities.org](https://dc-blog.neocities.org/Media/GIFs/DC-Button.gif)
+[MY WEBSITE](https://dc-blog.neocities.org) ([TDK](https://tdk-clan.neocities.org) + [VENITH](https://venith.neocities.org))
+
+[YOUTUBE](https://youtube.com/DigitalCheese) ([ODYSEE](https://odysee.com/$/invite/@DigitalCheese:1) + [RUMBLE](https://rumble.com/c/c-2569280))
+
+[TWITTER](https://twitter.com/DigitalCheeseYT) ([FEDIVERSE](https://ryona.agency/DigitalCheese))
+
+[GUILDED](https://guilded.gg/TDK) ([DISCORD](https://discord.gg/CVAFyaK48E))
+
+[3DSPAINT](https://3dspaint.com/member?id=150961) ([DEVIANTART](https://deviantart.com/DigitalCheeseYT))
 
 ## LANGUAGES LEARNED
 
