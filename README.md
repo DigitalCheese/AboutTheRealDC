@@ -4,7 +4,7 @@ The real Digital Cheese aka Giga Balls from Twitter/3DSPaint. I am the most base
 
 ## MAIN SOCIALS
 
-![Website](https://dc-blog.neocities.org/Media/GIFs/DC-Button.gif)
+![https://dc-blog.neocities.org](https://dc-blog.neocities.org/Media/GIFs/DC-Button.gif)
 
 ## LANGUAGES LEARNED
 
