@@ -10,8 +10,6 @@ https://discord.gg/CVAFyaK48E
 
 [YOUTUBE](https://youtube.com/DigitalCheese) ([ODYSEE](https://odysee.com/$/invite/@DigitalCheese:1) + [RUMBLE](https://rumble.com/c/c-2569280))
 
-[TWITTER](https://twitter.com/DigitalCheeseYT) ([FEDIVERSE](https://ryona.agency/DigitalCheese))
-
 [GUILDED](https://guilded.gg/TDK) ([REVOLT](https://rvlt.gg/bz7jFJFA))
 
 [3DSPAINT](https://3dspaint.com/member?id=150961) ([DEVIANTART](https://deviantart.com/DigitalCheeseYT))
