@@ -11,6 +11,7 @@ https://discord.gg/CVAFyaK48E
 <a href="https://guilded.gg/TDK"><img src="https://github.com/DigitalCheese/DigitalCheese/assets/97138334/53f8bc33-da5b-4a9d-a130-532687410c30"></a><br>
 <a href="https://3dspaint.com/member?id=150961"><img src="https://github.com/DigitalCheese/DigitalCheese/assets/97138334/517848cf-1546-493a-bd01-a1e45447698c"></a><br>
 <a href="https://t.me/FAC_GigaBalls"><img src="https://github.com/DigitalCheese/DigitalCheese/assets/97138334/9eca64c2-7bfd-4e4d-9fb5-f7917689b400"></a><br>
+<a href="https://odysee.com/$/invite/@DigitalCheese:1"><img src="https://github.com/DigitalCheese/DigitalCheese/assets/97138334/3f4221c8-aa24-4b68-8ca7-a5873ca56116"></a><br>
 <a href="https://steamcommunity.com/id/CoolGamrDC"><img src="https://github.com/DigitalCheese/DigitalCheese/assets/97138334/484cbd0c-1d0b-4d65-8e48-c7f42f643632"></a><br>
 <a href="https://deviantart.com/DigitalCheeseYT"><img src="https://github.com/DigitalCheese/DigitalCheese/assets/97138334/6fa15c7d-44bc-41a9-befd-0eef98e72e53"></a><br>
 <a href="https://kick.com/DigitalCheese"><img src="https://github.com/DigitalCheese/DigitalCheese/assets/97138334/b1675d62-2fdb-439c-b126-90449b5f5c3c"></a><br>
@@ -19,8 +20,6 @@ https://discord.gg/CVAFyaK48E
 
 That Website No One Likes Over Grass Touching:<br>
 <a href="https://twitter.com/DigitalCheeseYT"><img src="https://github.com/DigitalCheese/DigitalCheese/assets/97138334/fbad29f1-521c-4efd-a92c-22819e11242e"></a><br>
-
-([ODYSEE](https://odysee.com/$/invite/@DigitalCheese:1)
 
 ## LANGUAGES LEARNED
 
