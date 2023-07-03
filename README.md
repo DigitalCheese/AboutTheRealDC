@@ -6,7 +6,7 @@ https://discord.gg/CVAFyaK48E
 
 ## SOCIALS/CONTACT
 
-![https://github.com/DigitalCheese/DigitalCheese/assets/97138334/4ceeb410-612e-416a-9b67-8716f82f53cf](https://dc-blog.neocities.org)
+[![Website]([https://github.com/DigitalCheese/DigitalCheese/assets/97138334/4ceeb410-612e-416a-9b67-8716f82f53cf](https://github.com/DigitalCheese/DigitalCheese/assets/97138334/4ceeb410-612e-416a-9b67-8716f82f53cf))](https://dc-blog.neocities.org)
 
 [YOUTUBE](https://youtube.com/DigitalCheese) ([ODYSEE](https://odysee.com/$/invite/@DigitalCheese:1) + [RUMBLE](https://rumble.com/c/c-2569280))
 
