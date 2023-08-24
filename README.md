@@ -17,9 +17,6 @@ https://discord.gg/CVAFyaK48E
 <a href="https://rvlt.gg/bz7jFJFA"><img src="https://github.com/DigitalCheese/DigitalCheese/assets/97138334/64cad682-9000-44d4-b36f-0c4e816ea554"></a><br>
 <a href="https://rumble.com/c/c-2569280"><img src="https://github.com/DigitalCheese/DigitalCheese/assets/97138334/0e95ecff-7ebc-4b03-871d-1f168add4827"></a><br>
 
-That Website No One Likes Over Grass Touching:<br>
-<a href="https://twitter.com/DigitalCheeseYT"><img src="https://github.com/DigitalCheese/DigitalCheese/assets/97138334/fbad29f1-521c-4efd-a92c-22819e11242e"></a><br>
-
 ## LANGUAGES LEARNED
 
 ![HTML5](https://user-images.githubusercontent.com/97138334/208735972-e58c2d7a-942f-4eac-aa53-66d248789c5f.png)
