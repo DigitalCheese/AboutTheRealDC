@@ -7,7 +7,6 @@ https://discord.gg/CVAFyaK48E
 ## SOCIALS/CONTACT
 
 <a href="https://youtube.com/DigitalCheese"><img src="https://github.com/DigitalCheese/DigitalCheese/assets/97138334/425a1916-95d3-41a7-8601-db958f3df0dc"></a><br>
-<a href="https://guilded.gg/TDK"><img src="https://github.com/DigitalCheese/DigitalCheese/assets/97138334/53f8bc33-da5b-4a9d-a130-532687410c30"></a><br>
 <a href="https://3dspaint.com/member?id=150961"><img src="https://github.com/DigitalCheese/DigitalCheese/assets/97138334/517848cf-1546-493a-bd01-a1e45447698c"></a><br>
 <a href="https://odysee.com/$/invite/@DigitalCheese:1"><img src="https://github.com/DigitalCheese/DigitalCheese/assets/97138334/3f4221c8-aa24-4b68-8ca7-a5873ca56116"></a><br>
 <a href="https://steamcommunity.com/id/CoolGamrDC"><img src="https://github.com/DigitalCheese/DigitalCheese/assets/97138334/484cbd0c-1d0b-4d65-8e48-c7f42f643632"></a><br>
