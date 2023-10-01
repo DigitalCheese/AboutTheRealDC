@@ -6,8 +6,8 @@ https://discord.gg/CVAFyaK48E
 
 ## SOCIALS/CONTACT
 
-<a href="mailto:digitalcheese@att.net">Email: digitalcheese@att.net</a>
-<a href="https://t.me/FAC_GigaBalls">Telegram: @FAC_GigaBalls</a>
+<a href="mailto:digitalcheese@att.net">Email: digitalcheese@att.net</a><br>
+<a href="https://t.me/FAC_GigaBalls">Telegram: @FAC_GigaBalls</a><br>
 <a href="https://3dspaint.com/member?id=150961">3DSPaint: DCTheGamr</a>
 
 ## LANGUAGES LEARNED
