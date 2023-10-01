@@ -6,12 +6,10 @@ https://discord.gg/CVAFyaK48E
 
 ## SOCIALS/CONTACT
 
-<a href="https://youtube.com/DigitalCheese"><img src="https://github.com/DigitalCheese/DigitalCheese/assets/97138334/425a1916-95d3-41a7-8601-db958f3df0dc"></a><br>
 <a href="https://3dspaint.com/member?id=150961"><img src="https://github.com/DigitalCheese/DigitalCheese/assets/97138334/517848cf-1546-493a-bd01-a1e45447698c"></a><br>
 <a href="https://odysee.com/$/invite/@DigitalCheese:1"><img src="https://github.com/DigitalCheese/DigitalCheese/assets/97138334/3f4221c8-aa24-4b68-8ca7-a5873ca56116"></a><br>
 <a href="https://steamcommunity.com/id/CoolGamrDC"><img src="https://github.com/DigitalCheese/DigitalCheese/assets/97138334/484cbd0c-1d0b-4d65-8e48-c7f42f643632"></a><br>
 <a href="https://deviantart.com/DigitalCheeseYT"><img src="https://github.com/DigitalCheese/DigitalCheese/assets/97138334/6fa15c7d-44bc-41a9-befd-0eef98e72e53"></a><br>
-<a href="https://kick.com/DigitalCheese"><img src="https://github.com/DigitalCheese/DigitalCheese/assets/97138334/b1675d62-2fdb-439c-b126-90449b5f5c3c"></a><br>
 <a href="https://rvlt.gg/bz7jFJFA"><img src="https://github.com/DigitalCheese/DigitalCheese/assets/97138334/64cad682-9000-44d4-b36f-0c4e816ea554"></a><br>
 <a href="https://rumble.com/c/c-2569280"><img src="https://github.com/DigitalCheese/DigitalCheese/assets/97138334/0e95ecff-7ebc-4b03-871d-1f168add4827"></a><br>
 
