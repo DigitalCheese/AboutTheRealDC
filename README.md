@@ -1,6 +1,6 @@
 ## ABOUT ME
 
-The real Digital Cheese aka Giga Balls from Twitter/3DSPaint. I am the most based GitHub user of all time, liberals be warned! I don't use Discord, but my friend Draconid_Jo owns a server if you wanna do whatever in there. I have a bridge between Revolt and Discord so i can talk there anyways with a little bit of delay. Preferably just get me via Guilded/3DSPaint though as I'm most active there.
+The real Digital Cheese aka Giga Balls from Twitter/3DSPaint. I am the most based GitHub user of all time, liberals be warned! I don't use Discord, but my friend Draconid_Jo owns a server if you wanna do whatever in there. I have a bridge between Revolt and Discord so i can talk there anyways with a little bit of delay. Preferably just get me via Telegram/3DSPaint or email though as I'm most active there.
 
 https://discord.gg/CVAFyaK48E
 
