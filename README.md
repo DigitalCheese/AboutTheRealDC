@@ -9,4 +9,6 @@
 
 What I can do "Hello World" On:
 
+- C Language (i lack an image)
+
 ![PYTHON](https://github.com/DigitalCheese/DigitalCheese/assets/97138334/da659c05-5468-4f90-9e58-6b2f60a21b92)
